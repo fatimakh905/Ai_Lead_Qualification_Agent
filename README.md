@@ -1,4 +1,4 @@
-<h1 align="center">AI Project Consultant</h1>
+<h1 align="center">𝗔𝗜 𝗟𝗲𝗮𝗱 𝗖𝗼𝗻𝘀𝘂𝗹𝘁𝗮𝘁𝗶𝗼𝗻 𝗔𝗴𝗲𝗻𝘁</h1>
 
 
 ![License](https://img.shields.io/badge/license-MIT-blue.svg)
@@ -15,7 +15,7 @@
 
 > **An Agentic AI assistant that turns project conversations into structured requirements, relevant solutions, and actionable project insights.**
 
-AI Project Consultant is a practical **Agentic AI application** designed to help potential clients explore their project ideas and understand suitable technology solutions.
+AI Lead Consultation Agent is a practical **Agentic AI application** designed to help potential clients explore their project ideas and understand suitable technology solutions.
 
 Instead of functioning as a simple question-answer chatbot, the system combines **LLM reasoning, RAG, tool calling, conversational state, requirement gathering, and lead capture** to support a complete project-consultation workflow.
 
