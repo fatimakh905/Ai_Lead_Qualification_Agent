@@ -313,7 +313,7 @@ This project is licensed under the **MIT License**. See the [LICENSE](./LICENSE)
 | **LinkedIn** | [Click here](https://www.linkedin.com/in/kaneez-fatima-8a1516335/) |
 | **Project Type** | Agentic AI Internship Project |
 | **Organization** | CtrlAltCrew |
-| **Domain** | AI Project Consultation / Client Onboarding |
+| **Domain** | AI Lead Qualification Agent |
 | **Core Tech** | LangChain, LangGraph, Groq LLM, ChromaDB, Streamlit |
 | **License** | MIT |
 
